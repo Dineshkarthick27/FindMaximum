@@ -61,6 +61,10 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+![4a1](https://user-images.githubusercontent.com/120552008/215006639-f5e3a567-662c-428a-ad2f-1c07a1a5d094.jpg)
+![4a2](https://user-images.githubusercontent.com/120552008/215006659-20ae81ee-faa3-44c0-a5b1-bc291d5fbe4a.jpg)
+![4a3](https://user-images.githubusercontent.com/120552008/215006669-de2288e6-b412-4ef7-97f7-5d63c2eae6d7.jpg)
+
 
 
 
